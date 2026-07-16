@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Narek+Aslanyan+%F0%9F%91%8B;iOS+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Narek+Aslanyan+%F0%9F%91%8B;iOS+Engineer;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+visionOS;Building+apps+from+scratch+to+the+App+Store" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -60,8 +60,12 @@ I am an **iOS Engineer** from Armenia with **3+ years** shipping apps from scrat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aslanyan99nak&theme=tokyonight" alt="stats" height="200" />
+  <img src="https://grs-aslanyan99nak.fly.dev/api?username=aslanyan99nak&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslanyan99nak&theme=tokyonight&hide_border=true" alt="streak" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://grs-aslanyan99nak.fly.dev/api/top-langs?username=aslanyan99nak&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">

@@ -67,7 +67,3 @@ I am an **iOS Engineer** from Armenia with **3+ years** shipping apps from scrat
 <p align="center">
   <img src="https://grs-aslanyan99nak.fly.dev/api/top-langs?username=aslanyan99nak&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="top languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aslanyan99nak&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ffffff" alt="activity graph" width="100%" />
-</p>

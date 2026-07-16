@@ -34,7 +34,10 @@ I am an **iOS Engineer** from Armenia with **3+ years** shipping apps from scrat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://github.com/ProxymanApp.png" alt="Proxyman" width="48" height="48" style="border-radius:12px" />
+  <img src="https://github.com/ProxymanApp.png" alt="Proxyman" width="48" height="48" style="border-radius:12px" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/aslanyan99nak/aslanyan99nak/main/assets/fork.png" alt="Fork" width="48" height="48" style="border-radius:12px" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/aslanyan99nak/aslanyan99nak/main/assets/openai.svg" alt="OpenAI Codex" width="48" height="48" />
 </p>
 
 ---

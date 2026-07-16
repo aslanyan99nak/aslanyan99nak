@@ -65,6 +65,5 @@ I am an **iOS Engineer** from Armenia with **3+ years** shipping apps from scrat
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aslanyan99nak&theme=tokyonight" alt="most used languages" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aslanyan99nak&theme=tokyonight&utcOffset=4" alt="productive time" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aslanyan99nak&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ffffff" alt="activity graph" width="100%" />
 </p>

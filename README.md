@@ -60,10 +60,10 @@ I am an **iOS Engineer** from Armenia with **3+ years** shipping apps from scrat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://grs-aslanyan99nak.fly.dev/api?username=aslanyan99nak&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&v=4" alt="stats" height="200" />
+  <img src="https://grs-aslanyan99nak.fly.dev/api?username=aslanyan99nak&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&v=5" alt="stats" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslanyan99nak&theme=tokyonight&hide_border=true" alt="streak" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://grs-aslanyan99nak.fly.dev/api/top-langs?username=aslanyan99nak&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8&v=4" alt="top languages" />
+  <img src="https://grs-aslanyan99nak.fly.dev/api/top-langs?username=aslanyan99nak&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8&v=5" alt="top languages" />
 </p>

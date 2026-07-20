@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aslanyan99nak&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="mailto:a99narek@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/narekaslanyan/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Yerevan,%20Armenia-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
